@@ -5,11 +5,20 @@ module.exports = {
     extend: {
       colors:{
         gray:{
-          900:"#18191F"
+          900:"#18191F",
+          200:"#EEEFF4",
+          100:"#F4F5F7",
+          300:"#D9DBE1",
         },
         purple:{
           brand:"#8C30F5",
           800:"#D6B1FF",
+        },
+        Turquoise:{
+          100:"#D5FAFC",
+        },
+        Black:{
+          default:"#0B0D17",
         },
       },
       fontSize:{
